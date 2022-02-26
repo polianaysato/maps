@@ -1,0 +1,11 @@
+.MuiCard-root:nth-child(2) {
+	top: '48% !important';
+	position: absolute;
+}
+
+
+.MuiCardContent-root {
+    padding: 0px 8px 0px 8px !important;
+}
+
+

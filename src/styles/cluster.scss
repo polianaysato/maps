@@ -1,0 +1,76 @@
+$dark-green: #cbcdd0;
+$main-bg-color: #1D262B;
+$dark-pink: #5c6bc0; 
+$font-grey: #cbcdd0;
+
+body {
+  color: #1c1e21;
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+  span {
+    color: $font-grey;
+  }
+}
+
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: none;
+}
+
+.d3_donut__legend {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.d3_donut__chart {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.d3_donut__colorbox__1 {
+  $width-height: 20px;
+  width: $width-height;
+  height: $width-height;
+  display: inline-block;
+  background-color: $dark-pink;
+}
+
+.d3_donut__colorbox__2 {
+  $width-height: 20px;
+  width: $width-height;
+  height: $width-height;
+  display: inline-block;
+  background-color: $dark-green;
+}
+
+.d3_legend__item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.donut__center__net {
+  fill: #5c6bc0;
+  font-weight: 700;
+  font-size: 0.6rem;
+  text-anchor: middle;
+}
+
+.donut__center__participation {
+  fill: #5c6bc0;
+  font-weight: 700;
+  font-size: 0.6rem;
+  text-anchor: middle;
+}

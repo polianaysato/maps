@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 26 26"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg850"
+   sodipodi:docname="unclusteredPoint.svg"
+   width="26"
+   height="26"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs854" />
+  <sodipodi:namedview
+     id="namedview852"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="19.875"
+     inkscape:cx="12.955975"
+     inkscape:cy="16.981132"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g844" />
+  <title
+     id="title840">Interface navigation target user</title>
+  <g
+     id="g844"
+     transform="translate(-3,-3)">
+    <path
+       d="M 28,15 H 26.9493 A 11.0113,11.0113 0 0 0 17,5.0507 V 4 A 1,1 0 0 0 15,4 V 5.0507 A 11.0113,11.0113 0 0 0 5.0507,15 H 4 a 1,1 0 0 0 0,2 H 5.0507 A 11.0113,11.0113 0 0 0 15,26.9493 V 28 a 1,1 0 0 0 2,0 V 26.9493 A 11.0113,11.0113 0 0 0 26.9493,17 H 28 a 1,1 0 0 0 0,-2 z m -4,2 h 0.941 A 9.0124,9.0124 0 0 1 17,24.941 V 24 a 1,1 0 0 0 -2,0 v 0.941 A 9.0124,9.0124 0 0 1 7.059,17 H 8 A 1,1 0 0 0 8,15 H 7.059 A 9.0124,9.0124 0 0 1 15,7.059 V 8 a 1,1 0 0 0 2,0 V 7.059 A 9.0124,9.0124 0 0 1 24.941,15 H 24 a 1,1 0 0 0 0,2 z m -8,-5 a 4,4 0 1 0 4,4 4.0042,4.0042 0 0 0 -4,-4 z m 0,6 a 2,2 0 1 1 2,-2 2.0023,2.0023 0 0 1 -2,2 z"
+       id="path842"
+       style="fill:#1877f2;fill-opacity:1" />
+  </g>
+  <text
+     x="-3"
+     y="44"
+     fill="#000000"
+     font-size="5px"
+     font-weight="bold"
+     font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+     id="text846">Created by The Icon Z</text>
+  <text
+     x="-3"
+     y="49"
+     fill="#000000"
+     font-size="5px"
+     font-weight="bold"
+     font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+     id="text848">from the Noun Project</text>
+  <metadata
+     id="metadata936">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Interface navigation target user</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
